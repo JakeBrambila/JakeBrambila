@@ -11,7 +11,7 @@ I am a passionate software developer with a focus on mobile application developm
 Technical Skills
 
 	•	Languages: Python, C/C++, Dart
-	•	Mobile Development: Flutter, Firebase, Firebase, Riverpod
+	•	Mobile Development: Flutter, Firebase, Riverpod
 	•	Database Management: Firebase Cloud FireStore, Firebase Cloud Storage
 	•	Operating Systems: Linux (Debian/Ubuntu), macOS
 
