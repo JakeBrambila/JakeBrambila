@@ -10,7 +10,7 @@ I am a passionate software developer with a focus on mobile application developm
 
 Technical Skills
 
-	•	Languages: Python, C/C++, Dart
+	•	Languages: Go, C++, Dart
 	•	Mobile Development: Flutter, Firebase, Riverpod
 	•	Database Management: Firebase Cloud FireStore, Firebase Cloud Storage
 	•	Operating Systems: Linux (Debian/Ubuntu), macOS
@@ -25,7 +25,7 @@ Epic Drones Cross-Platform Application
 
 TrueChoice Cross-Platform Mobile Application
 
-	•	Developed a live chat system using Firebase’s Cloud Firestore.
+	•	Developed functionality to post short twitter-like updates and events with functionality to RSVP
 	•	Integrated a bug reporting feature with ClickUp’s API to streamline issue management for admins.
 	•	Built responsive UIs for both admin and user-facing dashboards.
 
