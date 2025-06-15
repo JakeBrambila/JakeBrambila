@@ -17,7 +17,7 @@ Technical Skills
 
 Projects
 
-Epic Drones Cross-Platform Application
+Hello Athlete Cross-Platform Application
 
 	•	Designed and implemented the user interface, including admin and user dashboards.
 	•	Integrated Firebase Authentication for secure login via email/password, Google, and Facebook.
